@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "location": "Chennai",
+      "type": "Full-time",
+      "company": "TechNova Inc.",
+      "description": "We are looking for a skilled frontend developer with experience in React and Tailwind CSS."
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "location": "Bangalore",
+      "type": "Remote",
+      "description": "Seeking an experienced backend engineer with Node.js and Express expertise."
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "location": "Remote",
+      "type": "Part-time",
+      "description": "Design clean and modern interfaces for our job portal application."
+    }
+  ]
+  
