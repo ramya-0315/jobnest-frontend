@@ -336,7 +336,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-[#3b0764] text-white py-6 mt-10">
         <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
-          <p className="text-sm">© {new Date().getFullYear()} JobPortal. All rights reserved.</p>
+          <p className="text-sm">© {new Date().getFullYear()} JobNest. All rights reserved.</p>
           <div className="flex space-x-4 text-sm">
             <Link to="/" className="hover:underline">Home</Link>
             <Link to="/jobs" className="hover:underline">Jobs</Link>
