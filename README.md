@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Link
 
 👉 [Explore JobNest Live!](https://jobnest-frontend-ramya.vercel.app/)
 
@@ -105,9 +105,8 @@ git clone https://github.com/ramya-0315/jobnest-backend.git
 - Backend runs on `http://localhost:8080`
 
 ---
+## 📬 Contact Me
 
-### 📬 Contact Me
-
-- 📧 Email: ramyacse2024@gmail.com  
+- 📧 Email: [ramyacse2024@gmail.com](mailto:ramyacse2024@gmail.com)  
 - 💼 LinkedIn: [https://www.geeksforgeeks.org/user/ramyasa6v8t/](https://www.geeksforgeeks.org/user/ramyasa6v8t/)  
 - 👩‍💻 GitHub: [https://github.com/ramya-0315](https://github.com/ramya-0315)
