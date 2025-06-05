@@ -89,6 +89,7 @@ git clone https://github.com/ramya-0315/jobnest-frontend.git
 # Backend repo
 git clone https://github.com/ramya-0315/jobnest-backend.git
 
+
 ### Frontend Setup
 
 - Navigate to the frontend directory  
@@ -103,9 +104,10 @@ git clone https://github.com/ramya-0315/jobnest-backend.git
 - Run `./mvnw spring-boot:run`  
 - Backend runs on `http://localhost:8080`
 
-## 📬 Contact Me
+---
+
+### 📬 Contact Me
 
 - 📧 Email: ramyacse2024@gmail.com  
-- 💼 LinkedIn:(https://www.geeksforgeeks.org/user/ramyasa6v8t/) 
-- 👩‍💻 GitHub: (https://github.com/ramya-0315)
-
+- 💼 LinkedIn: [https://www.geeksforgeeks.org/user/ramyasa6v8t/](https://www.geeksforgeeks.org/user/ramyasa6v8t/)  
+- 👩‍💻 GitHub: [https://github.com/ramya-0315](https://github.com/ramya-0315)
