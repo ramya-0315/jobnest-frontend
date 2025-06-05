@@ -92,10 +92,6 @@ JobNest eliminates fragmented and outdated job search experiences by providing:
 # Frontend repo
 git clone https://github.com/ramya-0315/jobnest-frontend.git
 
-# Backend repo
-git clone https://github.com/ramya-0315/jobnest-backend.git
-
-
 ### Frontend Setup
 
 - Navigate to the frontend directory  
@@ -103,10 +99,4 @@ git clone https://github.com/ramya-0315/jobnest-backend.git
 - Run `npm start`  
 - Open `http://localhost:3000`
 
-### Backend Setup
-
-- Create MySQL database `jobnest`  
-- Configure `application.properties` with your DB credentials  
-- Run `./mvnw spring-boot:run`  
-- Backend runs on `http://localhost:8080`
 
