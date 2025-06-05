@@ -25,8 +25,8 @@
 - ✅ Role-based authentication (Job Seeker, Employer, Admin)
 - ✅ Secure backend with Spring Security and RESTful APIs
 - ✅ Job posting, editing, and deletion by employers
-- ✅ Resume upload and application tracking for seekers
-- ✅ Job search with filters (location, role, salary, experience)
+- ✅ Application tracking for seekers
+- ✅ Job search 
 - ✅ Admin dashboard for user and listing management
 - ✅ Responsive, clean, and animated UI with React and Tailwind
 
@@ -67,8 +67,16 @@ JobNest eliminates fragmented and outdated job search experiences by providing:
 ### 🏢 Employer Dashboard
 ![Employer Dashboard](./screenshots/employer-dashboard.png)
 
+
 ### 👨‍💼 Job Seeker Dashboard
 ![Job Seeker Dashboard](./screenshots/jobseeker-dashboard.png)
+
+## ✨ Future Enhancements
+
+- 🔔 Real-time notifications with WebSocket  
+- 🤖 AI-driven job recommendations using resume parsing & skill matching  
+- 🔐 OAuth login/signup with Google & LinkedIn  
+- 💬 Direct messaging between employers and job seekers  
 
 ## 🔧 Installation & Local Setup
 
@@ -80,3 +88,24 @@ git clone https://github.com/ramya-0315/jobnest-frontend.git
 
 # Backend repo
 git clone https://github.com/ramya-0315/jobnest-backend.git
+
+### Frontend Setup
+
+- Navigate to the frontend directory  
+- Run `npm install`  
+- Run `npm start`  
+- Open `http://localhost:3000`
+
+### Backend Setup
+
+- Create MySQL database `jobnest`  
+- Configure `application.properties` with your DB credentials  
+- Run `./mvnw spring-boot:run`  
+- Backend runs on `http://localhost:8080`
+
+## 📬 Contact Me
+
+- 📧 Email: ramyacse2024@gmail.com  
+- 💼 LinkedIn:(https://www.geeksforgeeks.org/user/ramyasa6v8t/) 
+- 👩‍💻 GitHub: (https://github.com/ramya-0315)
+
