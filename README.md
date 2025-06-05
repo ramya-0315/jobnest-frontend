@@ -81,7 +81,7 @@ JobNest eliminates fragmented and outdated job search experiences by providing:
 ## 📬 Contact Me
 
 - 📧 Email: [ramyacse2024@gmail.com](mailto:ramyacse2024@gmail.com)  
-- 💼 LinkedIn: [https://www.geeksforgeeks.org/user/ramyasa6v8t/](https://www.geeksforgeeks.org/user/ramyasa6v8t/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ramya013/](https://www.linkedin.com/in/ramya013/)  
 - 👩‍💻 GitHub: [https://github.com/ramya-0315](https://github.com/ramya-0315)
 
 ## 🔧 Installation & Local Setup
